@@ -1,16 +1,0 @@
-Script started on Sun Apr  4 00:53:13 2021
-[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Pro.lan/Users/lucagranato/Cloned-Repo/git_test[0m[27m[24m[Jlucagranato@MacBook-Pro git_test % [K[?2004hggit branch --unset-upstream[?2004l
-[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Pro.lan/Users/lucagranato/Cloned-Repo/git_test[0m[27m[24m[Jlucagranato@MacBook-Pro git_test % [K[?2004hggit stq atus[?2004l
-On branch main
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   README.md[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mhello_world.txt[m
-	[31mtypescript[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Pro.lan/Users/lucagranato/Cloned-Repo/git_test[0m[27m[24m[Jlucagranato@MacBook-Pro git_test % [K[?2004hggit
